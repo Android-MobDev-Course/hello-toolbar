@@ -1,0 +1,4 @@
+#Sat Mar 14 19:08:00 CET 2020
+base.0=/Users/marcopicone/Desktop/MobDev/HelloToolBar/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
